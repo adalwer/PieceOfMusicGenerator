@@ -1,2 +1,1 @@
-# nieWeszloNa100
-chuj dupa dupa dupa
+Guitar exercises generator written in Java
