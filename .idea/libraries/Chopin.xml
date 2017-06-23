@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Chopin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Chopin/dist/Chopin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
